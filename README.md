@@ -3,8 +3,6 @@
 🎧 **Spotify Wrapped ISTE** is a data analysis and recommendation project that recreates a Spotify Wrapped–style experience using Python and Jupyter notebooks.  
 It includes data preprocessing, model training, and a Flask app for music recommendations.
 
-> 🚧 *No official project description was provided in the repo — this README is generated based on the source file structure.* :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 🚀 Project Overview
